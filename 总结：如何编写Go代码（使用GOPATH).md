@@ -54,7 +54,8 @@ src/
     ... (many more repositories and packages omitted) ... - 省略了更多的存储库和软件包
     
 ```
-上面的树结构展示了一个工作区包含2个仓库(example 和 image).
+上面的树结构展示了一个工作区包含2个代码仓库(example 和 image)。emample代码库包含两个命令（hello 和 outyet）和一个库[library]（stringutil）。image代码库包含bmp包和其他几个包。
+
 
 
 
